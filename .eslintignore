@@ -1,0 +1,11 @@
+# .eslintignore
+
+.eslintrc.js
+components.json
+next.config.mjs
+postcss.config.js 
+tailwind.config.ts
+tsconfig.json
+/components/ui/**
+
+
