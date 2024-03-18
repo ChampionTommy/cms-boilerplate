@@ -1,5 +1,9 @@
+import { Header } from "@/src/components/header";
+
 export default function Home() {
   return (
-    <div>1337!</div>
+    <div>
+      <Header/>
+    </div>
   );
 }
